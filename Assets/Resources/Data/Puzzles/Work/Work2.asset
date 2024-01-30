@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Work2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - R
+    - M
+    - A
+    - N
+    - A
+    - G
+    - E
+    - R
+    - D
+    - A
+  - Size: 10
+    Row:
+    - E
+    - H
+    - H
+    - Y
+    - T
+    - S
+    - T
+    - R
+    - E
+    - R
+  - Size: 10
+    Row:
+    - P
+    - G
+    - R
+    - N
+    - O
+    - A
+    - E
+    - H
+    - S
+    - C
+  - Size: 10
+    Row:
+    - O
+    - M
+    - Z
+    - W
+    - I
+    - S
+    - F
+    - Y
+    - I
+    - H
+  - Size: 10
+    Row:
+    - R
+    - P
+    - K
+    - L
+    - O
+    - L
+    - J
+    - S
+    - G
+    - I
+  - Size: 10
+    Row:
+    - T
+    - S
+    - O
+    - P
+    - F
+    - D
+    - K
+    - P
+    - N
+    - T
+  - Size: 10
+    Row:
+    - E
+    - R
+    - M
+    - W
+    - A
+    - Z
+    - I
+    - R
+    - E
+    - E
+  - Size: 10
+    Row:
+    - R
+    - O
+    - Z
+    - T
+    - R
+    - P
+    - H
+    - N
+    - R
+    - C
+  - Size: 10
+    Row:
+    - C
+    - T
+    - E
+    - A
+    - C
+    - H
+    - E
+    - R
+    - V
+    - T
+  - Size: 10
+    Row:
+    - R
+    - G
+    - Q
+    - S
+    - V
+    - F
+    - Y
+    - L
+    - U
+    - Q
+  SearchWords:
+  - Found: 0
+    Word: TAILOR
+  - Found: 0
+    Word: DESIGNER
+  - Found: 0
+    Word: ARCHITECT
+  - Found: 0
+    Word: MANAGER
+  - Found: 0
+    Word: TEACHER
+  - Found: 0
+    Word: REPORTER
+  - Found: 0
+    Word: COMPOSER

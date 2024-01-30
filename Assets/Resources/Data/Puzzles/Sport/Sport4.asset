@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Sport4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 80
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - B
+    - O
+    - B
+    - S
+    - L
+    - E
+    - I
+    - G
+    - H
+    - S
+  - Size: 10
+    Row:
+    - N
+    - G
+    - J
+    - Z
+    - U
+    - S
+    - H
+    - R
+    - O
+    - H
+  - Size: 10
+    Row:
+    - E
+    - L
+    - B
+    - A
+    - U
+    - K
+    - B
+    - F
+    - S
+    - U
+  - Size: 10
+    Row:
+    - T
+    - I
+    - T
+    - Q
+    - S
+    - B
+    - T
+    - Q
+    - Q
+    - R
+  - Size: 10
+    Row:
+    - B
+    - D
+    - D
+    - C
+    - P
+    - B
+    - U
+    - J
+    - I
+    - L
+  - Size: 10
+    Row:
+    - A
+    - I
+    - A
+    - F
+    - A
+    - A
+    - Y
+    - M
+    - H
+    - I
+  - Size: 10
+    Row:
+    - L
+    - N
+    - Q
+    - L
+    - S
+    - F
+    - Z
+    - J
+    - E
+    - N
+  - Size: 10
+    Row:
+    - L
+    - G
+    - L
+    - H
+    - U
+    - L
+    - L
+    - C
+    - O
+    - G
+  - Size: 10
+    Row:
+    - W
+    - A
+    - T
+    - E
+    - R
+    - P
+    - O
+    - L
+    - O
+    - C
+  - Size: 10
+    Row:
+    - A
+    - M
+    - L
+    - J
+    - J
+    - E
+    - M
+    - I
+    - S
+    - U
+  SearchWords:
+  - Found: 0
+    Word: BOBSLEIGH
+  - Found: 0
+    Word: SQUASH
+  - Found: 0
+    Word: NETBALL
+  - Found: 0
+    Word: HURLING
+  - Found: 0
+    Word: GLIDING
+  - Found: 0
+    Word: SOFTBALL

@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Sport3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 70
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - B
+    - O
+    - W
+    - L
+    - I
+    - N
+    - G
+    - T
+    - Z
+    - P
+  - Size: 10
+    Row:
+    - R
+    - O
+    - W
+    - I
+    - N
+    - G
+    - L
+    - N
+    - O
+    - J
+  - Size: 10
+    Row:
+    - W
+    - H
+    - E
+    - X
+    - A
+    - M
+    - Y
+    - L
+    - U
+    - N
+  - Size: 10
+    Row:
+    - L
+    - U
+    - W
+    - W
+    - E
+    - F
+    - O
+    - D
+    - Y
+    - F
+  - Size: 10
+    Row:
+    - P
+    - U
+    - G
+    - K
+    - R
+    - T
+    - O
+    - H
+    - W
+    - P
+  - Size: 10
+    Row:
+    - D
+    - M
+    - L
+    - B
+    - E
+    - Z
+    - A
+    - F
+    - H
+    - F
+  - Size: 10
+    Row:
+    - H
+    - O
+    - C
+    - K
+    - E
+    - Y
+    - G
+    - R
+    - E
+    - W
+  - Size: 10
+    Row:
+    - H
+    - O
+    - C
+    - K
+    - E
+    - Y
+    - S
+    - G
+    - A
+    - F
+  - Size: 10
+    Row:
+    - B
+    - O
+    - X
+    - I
+    - N
+    - G
+    - E
+    - V
+    - Z
+    - K
+  - Size: 10
+    Row:
+    - U
+    - X
+    - I
+    - T
+    - F
+    - T
+    - L
+    - N
+    - K
+    - S
+  SearchWords:
+  - Found: 0
+    Word: HOCKEY
+  - Found: 0
+    Word: BOXING
+  - Found: 0
+    Word: ROWING
+  - Found: 0
+    Word: KARATE
+  - Found: 0
+    Word: JUDO
+  - Found: 0
+    Word: POLO
+  - Found: 0
+    Word: BOWLING

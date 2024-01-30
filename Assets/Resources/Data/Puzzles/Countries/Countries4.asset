@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Countries4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 85
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - U
+    - K
+    - R
+    - A
+    - I
+    - N
+    - E
+    - V
+    - K
+    - I
+  - Size: 10
+    Row:
+    - V
+    - X
+    - A
+    - L
+    - I
+    - V
+    - M
+    - A
+    - R
+    - B
+  - Size: 10
+    Row:
+    - E
+    - P
+    - G
+    - I
+    - V
+    - Z
+    - J
+    - A
+    - H
+    - E
+  - Size: 10
+    Row:
+    - G
+    - Z
+    - E
+    - X
+    - S
+    - U
+    - N
+    - O
+    - A
+    - L
+  - Size: 10
+    Row:
+    - T
+    - R
+    - D
+    - P
+    - B
+    - Y
+    - I
+    - S
+    - L
+    - G
+  - Size: 10
+    Row:
+    - V
+    - R
+    - U
+    - A
+    - P
+    - O
+    - A
+    - V
+    - F
+    - I
+  - Size: 10
+    Row:
+    - P
+    - O
+    - L
+    - A
+    - N
+    - D
+    - F
+    - L
+    - J
+    - U
+  - Size: 10
+    Row:
+    - P
+    - O
+    - R
+    - T
+    - U
+    - G
+    - A
+    - L
+    - A
+    - M
+  - Size: 10
+    Row:
+    - P
+    - A
+    - K
+    - I
+    - S
+    - T
+    - A
+    - N
+    - U
+    - M
+  - Size: 10
+    Row:
+    - M
+    - S
+    - J
+    - R
+    - K
+    - J
+    - K
+    - V
+    - F
+    - F
+  SearchWords:
+  - Found: 0
+    Word: UKRAINE
+  - Found: 0
+    Word: PAKISTAN
+  - Found: 0
+    Word: IRAN
+  - Found: 0
+    Word: MALAYSIA
+  - Found: 0
+    Word: PORTUGAL
+  - Found: 0
+    Word: POLAND
+  - Found: 0
+    Word: BELGIUM

@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Animals4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 100
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - S
+    - L
+    - S
+    - K
+    - K
+    - A
+    - R
+    - B
+    - E
+    - Z
+  - Size: 10
+    Row:
+    - D
+    - Q
+    - Y
+    - M
+    - R
+    - R
+    - N
+    - H
+    - I
+    - S
+  - Size: 10
+    Row:
+    - S
+    - O
+    - U
+    - N
+    - Y
+    - Q
+    - G
+    - B
+    - P
+    - H
+  - Size: 10
+    Row:
+    - O
+    - F
+    - R
+    - I
+    - X
+    - P
+    - Z
+    - C
+    - U
+    - E
+  - Size: 10
+    Row:
+    - I
+    - J
+    - J
+    - X
+    - R
+    - K
+    - C
+    - C
+    - S
+    - E
+  - Size: 10
+    Row:
+    - K
+    - I
+    - T
+    - E
+    - X
+    - R
+    - T
+    - G
+    - W
+    - P
+  - Size: 10
+    Row:
+    - M
+    - O
+    - F
+    - H
+    - Y
+    - Z
+    - E
+    - M
+    - D
+    - N
+  - Size: 10
+    Row:
+    - J
+    - G
+    - R
+    - X
+    - A
+    - Q
+    - F
+    - L
+    - C
+    - E
+  - Size: 10
+    Row:
+    - G
+    - I
+    - R
+    - A
+    - F
+    - F
+    - E
+    - U
+    - Q
+    - W
+  - Size: 10
+    Row:
+    - C
+    - H
+    - E
+    - E
+    - T
+    - A
+    - H
+    - K
+    - V
+    - T
+  SearchWords:
+  - Found: 0
+    Word: SHEEP
+  - Found: 0
+    Word: GIRAFFE
+  - Found: 0
+    Word: CHEETAH
+  - Found: 0
+    Word: ZEBRA
+  - Found: 0
+    Word: SQUIRREL
+  - Found: 0
+    Word: KITE
+  - Found: 0
+    Word: NEWT
+  - Found: 0
+    Word: LYNX

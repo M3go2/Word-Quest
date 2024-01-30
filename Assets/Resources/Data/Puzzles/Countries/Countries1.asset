@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Countries1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 80
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - M
+    - F
+    - L
+    - B
+    - H
+    - M
+    - H
+    - P
+    - T
+    - C
+  - Size: 10
+    Row:
+    - E
+    - R
+    - G
+    - R
+    - B
+    - H
+    - K
+    - J
+    - A
+    - R
+  - Size: 10
+    Row:
+    - X
+    - A
+    - Y
+    - A
+    - C
+    - P
+    - T
+    - N
+    - Z
+    - E
+  - Size: 10
+    Row:
+    - I
+    - N
+    - T
+    - Z
+    - L
+    - H
+    - A
+    - T
+    - I
+    - N
+  - Size: 10
+    Row:
+    - C
+    - C
+    - R
+    - I
+    - E
+    - D
+    - L
+    - F
+    - N
+    - X
+  - Size: 10
+    Row:
+    - O
+    - E
+    - D
+    - L
+    - A
+    - B
+    - G
+    - L
+    - D
+    - D
+  - Size: 10
+    Row:
+    - L
+    - S
+    - C
+    - J
+    - X
+    - Q
+    - S
+    - D
+    - I
+    - P
+  - Size: 10
+    Row:
+    - E
+    - H
+    - Z
+    - G
+    - Q
+    - J
+    - U
+    - Q
+    - A
+    - H
+  - Size: 10
+    Row:
+    - J
+    - A
+    - P
+    - A
+    - N
+    - Y
+    - L
+    - A
+    - T
+    - I
+  - Size: 10
+    Row:
+    - L
+    - T
+    - F
+    - G
+    - A
+    - Z
+    - V
+    - L
+    - W
+    - T
+  SearchWords:
+  - Found: 0
+    Word: JAPAN
+  - Found: 0
+    Word: BRAZIL
+  - Found: 0
+    Word: FRANCE
+  - Found: 0
+    Word: INDIA
+  - Found: 0
+    Word: ITALY
+  - Found: 0
+    Word: CANADA
+  - Found: 0
+    Word: MEXICO

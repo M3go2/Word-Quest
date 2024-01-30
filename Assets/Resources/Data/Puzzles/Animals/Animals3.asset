@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Animals3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - D
+    - C
+    - W
+    - A
+    - T
+    - R
+    - R
+    - D
+    - I
+    - F
+  - Size: 10
+    Row:
+    - X
+    - E
+    - H
+    - Q
+    - S
+    - A
+    - K
+    - J
+    - O
+    - F
+  - Size: 10
+    Row:
+    - Q
+    - R
+    - E
+    - A
+    - E
+    - B
+    - L
+    - X
+    - G
+    - X
+  - Size: 10
+    Row:
+    - S
+    - X
+    - E
+    - R
+    - G
+    - B
+    - C
+    - R
+    - V
+    - M
+  - Size: 10
+    Row:
+    - M
+    - R
+    - Y
+    - X
+    - C
+    - I
+    - G
+    - A
+    - J
+    - H
+  - Size: 10
+    Row:
+    - W
+    - O
+    - L
+    - F
+    - O
+    - T
+    - O
+    - U
+    - X
+    - S
+  - Size: 10
+    Row:
+    - J
+    - B
+    - E
+    - C
+    - H
+    - F
+    - R
+    - U
+    - G
+    - Q
+  - Size: 10
+    Row:
+    - N
+    - A
+    - N
+    - A
+    - X
+    - T
+    - N
+    - A
+    - O
+    - A
+  - Size: 10
+    Row:
+    - D
+    - E
+    - U
+    - O
+    - I
+    - U
+    - X
+    - E
+    - E
+    - Z
+  - Size: 10
+    Row:
+    - H
+    - S
+    - U
+    - K
+    - L
+    - Y
+    - J
+    - R
+    - L
+    - B
+  SearchWords:
+  - Found: 0
+    Word: FOX
+  - Found: 0
+    Word: HEN
+  - Found: 0
+    Word: WOLF
+  - Found: 0
+    Word: BEAR
+  - Found: 0
+    Word: DEER
+  - Found: 0
+    Word: RABBIT

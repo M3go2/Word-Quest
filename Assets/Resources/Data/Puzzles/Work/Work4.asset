@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Work4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 115
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - D
+    - C
+    - A
+    - S
+    - H
+    - I
+    - E
+    - R
+    - J
+    - C
+  - Size: 10
+    Row:
+    - U
+    - O
+    - T
+    - H
+    - L
+    - R
+    - M
+    - A
+    - H
+    - F
+  - Size: 10
+    Row:
+    - Q
+    - B
+    - C
+    - X
+    - O
+    - C
+    - B
+    - E
+    - T
+    - L
+  - Size: 10
+    Row:
+    - J
+    - K
+    - V
+    - T
+    - G
+    - Q
+    - F
+    - D
+    - G
+    - O
+  - Size: 10
+    Row:
+    - Y
+    - C
+    - L
+    - U
+    - O
+    - X
+    - F
+    - F
+    - O
+    - R
+  - Size: 10
+    Row:
+    - W
+    - E
+    - T
+    - E
+    - T
+    - R
+    - J
+    - N
+    - J
+    - I
+  - Size: 10
+    Row:
+    - L
+    - A
+    - B
+    - O
+    - R
+    - E
+    - R
+    - Q
+    - P
+    - S
+  - Size: 10
+    Row:
+    - D
+    - I
+    - R
+    - E
+    - I
+    - H
+    - S
+    - A
+    - C
+    - T
+  - Size: 10
+    Row:
+    - X
+    - R
+    - E
+    - P
+    - O
+    - L
+    - E
+    - V
+    - E
+    - D
+  - Size: 10
+    Row:
+    - S
+    - T
+    - Y
+    - L
+    - I
+    - S
+    - T
+    - N
+    - C
+    - D
+  SearchWords:
+  - Found: 0
+    Word: DOCTOR
+  - Found: 0
+    Word: FLORIST
+  - Found: 0
+    Word: LABORER
+  - Found: 0
+    Word: DEVELOPER
+  - Found: 0
+    Word: CASHIER
+  - Found: 0
+    Word: CHEF
+  - Found: 0
+    Word: STYLIST

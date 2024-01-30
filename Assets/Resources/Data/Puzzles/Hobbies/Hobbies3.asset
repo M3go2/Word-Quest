@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Hobbies3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 100
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - O
+    - S
+    - R
+    - J
+    - O
+    - W
+    - G
+    - N
+    - P
+    - A
+  - Size: 10
+    Row:
+    - G
+    - R
+    - K
+    - U
+    - K
+    - Z
+    - L
+    - N
+    - W
+    - S
+  - Size: 10
+    Row:
+    - A
+    - R
+    - I
+    - I
+    - N
+    - H
+    - N
+    - H
+    - H
+    - T
+  - Size: 10
+    Row:
+    - M
+    - U
+    - O
+    - G
+    - I
+    - N
+    - J
+    - T
+    - K
+    - R
+  - Size: 10
+    Row:
+    - I
+    - B
+    - B
+    - Q
+    - A
+    - N
+    - I
+    - V
+    - T
+    - O
+  - Size: 10
+    Row:
+    - N
+    - V
+    - Y
+    - I
+    - E
+    - M
+    - G
+    - N
+    - L
+    - N
+  - Size: 10
+    Row:
+    - G
+    - J
+    - W
+    - D
+    - R
+    - B
+    - I
+    - N
+    - G
+    - O
+  - Size: 10
+    Row:
+    - A
+    - R
+    - C
+    - H
+    - E
+    - R
+    - Y
+    - D
+    - Z
+    - M
+  - Size: 10
+    Row:
+    - S
+    - U
+    - R
+    - F
+    - I
+    - N
+    - G
+    - M
+    - R
+    - Y
+  - Size: 10
+    Row:
+    - M
+    - F
+    - Z
+    - S
+    - Y
+    - M
+    - H
+    - K
+    - U
+    - L
+  SearchWords:
+  - Found: 0
+    Word: ORIGAMI
+  - Found: 0
+    Word: RUNNING
+  - Found: 0
+    Word: SKIING
+  - Found: 0
+    Word: ASTRONOMY
+  - Found: 0
+    Word: GAMING
+  - Found: 0
+    Word: SURFING
+  - Found: 0
+    Word: ARCHERY

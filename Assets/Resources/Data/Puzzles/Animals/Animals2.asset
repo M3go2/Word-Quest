@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Animals2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 30
+  Columns: 7
+  Rows: 6
+  Board:
+  - Size: 6
+    Row:
+    - P
+    - L
+    - O
+    - W
+    - D
+    - P
+  - Size: 6
+    Row:
+    - Z
+    - A
+    - D
+    - N
+    - N
+    - E
+  - Size: 6
+    Row:
+    - F
+    - H
+    - N
+    - N
+    - R
+    - N
+  - Size: 6
+    Row:
+    - K
+    - A
+    - J
+    - D
+    - B
+    - G
+  - Size: 6
+    Row:
+    - K
+    - R
+    - N
+    - I
+    - A
+    - U
+  - Size: 6
+    Row:
+    - J
+    - T
+    - Z
+    - X
+    - E
+    - I
+  - Size: 6
+    Row:
+    - V
+    - F
+    - U
+    - X
+    - J
+    - N
+  SearchWords:
+  - Found: 0
+    Word: PANDA
+  - Found: 0
+    Word: PENGUIN

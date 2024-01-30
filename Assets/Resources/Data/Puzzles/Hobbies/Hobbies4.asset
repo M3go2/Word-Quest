@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Hobbies4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 120
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - J
+    - X
+    - C
+    - W
+    - H
+    - W
+    - P
+    - K
+    - B
+    - C
+  - Size: 10
+    Row:
+    - U
+    - A
+    - S
+    - X
+    - W
+    - K
+    - P
+    - A
+    - J
+    - O
+  - Size: 10
+    Row:
+    - C
+    - E
+    - M
+    - U
+    - R
+    - T
+    - K
+    - E
+    - S
+    - L
+  - Size: 10
+    Row:
+    - A
+    - N
+    - W
+    - G
+    - N
+    - E
+    - C
+    - R
+    - A
+    - L
+  - Size: 10
+    Row:
+    - R
+    - H
+    - N
+    - L
+    - N
+    - Z
+    - B
+    - T
+    - I
+    - E
+  - Size: 10
+    Row:
+    - V
+    - G
+    - G
+    - T
+    - J
+    - I
+    - C
+    - M
+    - L
+    - C
+  - Size: 10
+    Row:
+    - E
+    - I
+    - N
+    - N
+    - D
+    - B
+    - D
+    - M
+    - H
+    - T
+  - Size: 10
+    Row:
+    - H
+    - U
+    - B
+    - B
+    - C
+    - X
+    - R
+    - O
+    - Z
+    - H
+  - Size: 10
+    Row:
+    - H
+    - U
+    - E
+    - W
+    - S
+    - N
+    - S
+    - R
+    - C
+    - W
+  - Size: 10
+    Row:
+    - W
+    - Y
+    - B
+    - H
+    - Y
+    - U
+    - P
+    - H
+    - B
+    - V
+  SearchWords:
+  - Found: 0
+    Word: CARVE
+  - Found: 0
+    Word: SAIL
+  - Found: 0
+    Word: HUNT
+  - Found: 0
+    Word: CODING
+  - Found: 0
+    Word: BAKE
+  - Found: 0
+    Word: COLLECT

@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Countries3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - V
+    - N
+    - U
+    - K
+    - Q
+    - T
+    - I
+    - Z
+    - G
+    - N
+  - Size: 10
+    Row:
+    - Z
+    - I
+    - I
+    - A
+    - E
+    - Z
+    - O
+    - L
+    - V
+    - O
+  - Size: 10
+    Row:
+    - W
+    - E
+    - E
+    - G
+    - D
+    - N
+    - X
+    - M
+    - Z
+    - R
+  - Size: 10
+    Row:
+    - I
+    - E
+    - H
+    - T
+    - E
+    - J
+    - Y
+    - Z
+    - P
+    - W
+  - Size: 10
+    Row:
+    - G
+    - I
+    - G
+    - Z
+    - N
+    - R
+    - U
+    - A
+    - D
+    - A
+  - Size: 10
+    Row:
+    - X
+    - S
+    - L
+    - U
+    - I
+    - A
+    - I
+    - R
+    - B
+    - Y
+  - Size: 10
+    Row:
+    - R
+    - X
+    - B
+    - W
+    - J
+    - V
+    - M
+    - A
+    - R
+    - V
+  - Size: 10
+    Row:
+    - R
+    - Y
+    - N
+    - A
+    - N
+    - E
+    - D
+    - E
+    - W
+    - S
+  - Size: 10
+    Row:
+    - R
+    - I
+    - D
+    - N
+    - A
+    - L
+    - I
+    - A
+    - H
+    - T
+  - Size: 10
+    Row:
+    - W
+    - O
+    - J
+    - C
+    - F
+    - I
+    - U
+    - E
+    - L
+    - S
+  SearchWords:
+  - Found: 0
+    Word: NIGERIA
+  - Found: 0
+    Word: SWEDEN
+  - Found: 0
+    Word: THAILAND
+  - Found: 1
+    Word: NORWAY
+  - Found: 1
+    Word: VIETNAM
+  - Found: 0
+    Word: KENYA

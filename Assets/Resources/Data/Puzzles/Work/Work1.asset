@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Work1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - E
+    - N
+    - G
+    - I
+    - N
+    - E
+    - E
+    - R
+    - T
+    - A
+  - Size: 10
+    Row:
+    - P
+    - N
+    - E
+    - R
+    - F
+    - N
+    - Y
+    - S
+    - C
+    - N
+  - Size: 10
+    Row:
+    - L
+    - Q
+    - H
+    - I
+    - D
+    - B
+    - I
+    - L
+    - H
+    - A
+  - Size: 10
+    Row:
+    - U
+    - K
+    - M
+    - R
+    - O
+    - M
+    - E
+    - M
+    - C
+    - L
+  - Size: 10
+    Row:
+    - M
+    - G
+    - T
+    - H
+    - E
+    - A
+    - V
+    - N
+    - P
+    - Y
+  - Size: 10
+    Row:
+    - B
+    - E
+    - G
+    - H
+    - N
+    - J
+    - U
+    - S
+    - R
+    - S
+  - Size: 10
+    Row:
+    - E
+    - F
+    - C
+    - E
+    - G
+    - H
+    - Q
+    - F
+    - A
+    - T
+  - Size: 10
+    Row:
+    - R
+    - F
+    - R
+    - R
+    - O
+    - T
+    - I
+    - N
+    - A
+    - J
+  - Size: 10
+    Row:
+    - M
+    - E
+    - D
+    - I
+    - C
+    - I
+    - N
+    - E
+    - M
+    - V
+  - Size: 10
+    Row:
+    - V
+    - G
+    - D
+    - X
+    - M
+    - I
+    - M
+    - S
+    - I
+    - X
+  SearchWords:
+  - Found: 0
+    Word: PLUMBER
+  - Found: 0
+    Word: CHEMIST
+  - Found: 0
+    Word: CLEANER
+  - Found: 0
+    Word: JANITOR
+  - Found: 0
+    Word: ANALYST
+  - Found: 0
+    Word: MEDICINE
+  - Found: 0
+    Word: ENGINEER

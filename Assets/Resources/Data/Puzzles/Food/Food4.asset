@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Food4
+  m_EditorClassIdentifier: 
+  timeInSeconds: 100
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - B
+    - C
+    - A
+    - R
+    - R
+    - O
+    - T
+    - Q
+    - U
+    - S
+  - Size: 10
+    Row:
+    - C
+    - R
+    - L
+    - G
+    - E
+    - H
+    - P
+    - C
+    - S
+    - P
+  - Size: 10
+    Row:
+    - H
+    - M
+    - O
+    - J
+    - J
+    - I
+    - V
+    - E
+    - R
+    - I
+  - Size: 10
+    Row:
+    - E
+    - U
+    - P
+    - C
+    - U
+    - G
+    - V
+    - A
+    - F
+    - N
+  - Size: 10
+    Row:
+    - E
+    - O
+    - A
+    - F
+    - C
+    - Z
+    - F
+    - X
+    - N
+    - A
+  - Size: 10
+    Row:
+    - S
+    - W
+    - O
+    - V
+    - R
+    - O
+    - E
+    - P
+    - N
+    - C
+  - Size: 10
+    Row:
+    - E
+    - S
+    - B
+    - E
+    - J
+    - T
+    - L
+    - B
+    - M
+    - H
+  - Size: 10
+    Row:
+    - O
+    - N
+    - I
+    - O
+    - N
+    - H
+    - U
+    - I
+    - H
+    - E
+  - Size: 10
+    Row:
+    - P
+    - O
+    - T
+    - A
+    - T
+    - O
+    - J
+    - L
+    - D
+    - O
+  - Size: 10
+    Row:
+    - S
+    - O
+    - V
+    - G
+    - A
+    - B
+    - M
+    - K
+    - M
+    - H
+  SearchWords:
+  - Found: 0
+    Word: CARROT
+  - Found: 0
+    Word: BROCCOLI
+  - Found: 0
+    Word: POTATO
+  - Found: 0
+    Word: SPINACH
+  - Found: 0
+    Word: CHEESE
+  - Found: 0
+    Word: ONION

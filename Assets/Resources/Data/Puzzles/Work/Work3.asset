@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Work3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 90
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - M
+    - E
+    - C
+    - H
+    - A
+    - N
+    - I
+    - C
+    - H
+    - B
+  - Size: 10
+    Row:
+    - C
+    - Z
+    - E
+    - K
+    - D
+    - W
+    - J
+    - Y
+    - A
+    - C
+  - Size: 10
+    Row:
+    - O
+    - J
+    - D
+    - X
+    - K
+    - O
+    - S
+    - K
+    - H
+    - W
+  - Size: 10
+    Row:
+    - A
+    - C
+    - I
+    - Q
+    - R
+    - M
+    - E
+    - E
+    - U
+    - A
+  - Size: 10
+    Row:
+    - C
+    - M
+    - T
+    - E
+    - W
+    - R
+    - M
+    - W
+    - E
+    - I
+  - Size: 10
+    Row:
+    - H
+    - C
+    - O
+    - M
+    - K
+    - I
+    - V
+    - B
+    - K
+    - T
+  - Size: 10
+    Row:
+    - Q
+    - F
+    - R
+    - Z
+    - S
+    - G
+    - J
+    - B
+    - R
+    - E
+  - Size: 10
+    Row:
+    - H
+    - H
+    - H
+    - T
+    - H
+    - M
+    - N
+    - J
+    - A
+    - R
+  - Size: 10
+    Row:
+    - A
+    - U
+    - T
+    - H
+    - O
+    - R
+    - Z
+    - W
+    - X
+    - H
+  - Size: 10
+    Row:
+    - Z
+    - O
+    - E
+    - R
+    - I
+    - N
+    - T
+    - P
+    - S
+    - M
+  SearchWords:
+  - Found: 0
+    Word: MECHANIC
+  - Found: 0
+    Word: CHEMIST
+  - Found: 0
+    Word: AUTHOR
+  - Found: 0
+    Word: WAITER
+  - Found: 0
+    Word: COACH
+  - Found: 0
+    Word: EDITOR
+  - Found: 0
+    Word: BAKER

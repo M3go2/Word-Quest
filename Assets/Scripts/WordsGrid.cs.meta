@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0df8385c836075d4bb9d68d74ec6f769
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CurrentGameData: {instanceID: 0}
+  - gridSquarePrefab: {instanceID: 0}
+  - alphabetData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

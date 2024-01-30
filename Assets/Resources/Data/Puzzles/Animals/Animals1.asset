@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Animals1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 60
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - G
+    - O
+    - P
+    - C
+    - B
+    - H
+    - D
+    - S
+    - W
+    - L
+  - Size: 10
+    Row:
+    - F
+    - I
+    - B
+    - X
+    - H
+    - Z
+    - S
+    - R
+    - I
+    - P
+  - Size: 10
+    Row:
+    - J
+    - J
+    - R
+    - F
+    - U
+    - O
+    - C
+    - O
+    - Z
+    - H
+  - Size: 10
+    Row:
+    - Z
+    - H
+    - S
+    - A
+    - V
+    - H
+    - N
+    - F
+    - I
+    - X
+  - Size: 10
+    Row:
+    - P
+    - J
+    - A
+    - U
+    - F
+    - Y
+    - I
+    - Q
+    - B
+    - P
+  - Size: 10
+    Row:
+    - Z
+    - L
+    - R
+    - M
+    - T
+    - F
+    - L
+    - B
+    - O
+    - B
+  - Size: 10
+    Row:
+    - Q
+    - D
+    - G
+    - Y
+    - P
+    - D
+    - E
+    - G
+    - W
+    - K
+  - Size: 10
+    Row:
+    - L
+    - D
+    - Y
+    - S
+    - O
+    - S
+    - E
+    - O
+    - B
+    - A
+  - Size: 10
+    Row:
+    - N
+    - W
+    - Q
+    - A
+    - B
+    - B
+    - I
+    - O
+    - E
+    - U
+  - Size: 10
+    Row:
+    - E
+    - L
+    - E
+    - P
+    - H
+    - A
+    - N
+    - T
+    - A
+    - S
+  SearchWords:
+  - Found: 0
+    Word: GIRAFFE
+  - Found: 0
+    Word: LION
+  - Found: 0
+    Word: ELEPHANT

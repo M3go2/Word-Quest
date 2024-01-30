@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Countries2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 85
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - E
+    - G
+    - Y
+    - P
+    - T
+    - B
+    - N
+    - R
+    - W
+    - G
+  - Size: 10
+    Row:
+    - S
+    - G
+    - W
+    - P
+    - Q
+    - V
+    - U
+    - X
+    - R
+    - T
+  - Size: 10
+    Row:
+    - Y
+    - L
+    - E
+    - Y
+    - C
+    - S
+    - I
+    - E
+    - E
+    - U
+  - Size: 10
+    Row:
+    - A
+    - J
+    - M
+    - O
+    - S
+    - A
+    - E
+    - D
+    - G
+    - R
+  - Size: 10
+    Row:
+    - Y
+    - J
+    - F
+    - I
+    - H
+    - C
+    - N
+    - V
+    - Y
+    - K
+  - Size: 10
+    Row:
+    - A
+    - F
+    - A
+    - F
+    - E
+    - R
+    - Q
+    - F
+    - P
+    - E
+  - Size: 10
+    Row:
+    - G
+    - E
+    - R
+    - M
+    - A
+    - N
+    - Y
+    - Y
+    - T
+    - Y
+  - Size: 10
+    Row:
+    - S
+    - P
+    - A
+    - I
+    - N
+    - Z
+    - D
+    - L
+    - P
+    - U
+  - Size: 10
+    Row:
+    - C
+    - H
+    - I
+    - N
+    - A
+    - C
+    - C
+    - G
+    - S
+    - E
+  - Size: 10
+    Row:
+    - R
+    - K
+    - F
+    - B
+    - A
+    - E
+    - Z
+    - V
+    - V
+    - J
+  SearchWords:
+  - Found: 0
+    Word: EGYPT
+  - Found: 0
+    Word: GREECE
+  - Found: 0
+    Word: RUSSIA
+  - Found: 0
+    Word: CHINA
+  - Found: 0
+    Word: GERMANY
+  - Found: 0
+    Word: SPAIN
+  - Found: 0
+    Word: TURKEY

@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Food3
+  m_EditorClassIdentifier: 
+  timeInSeconds: 80
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - L
+    - E
+    - M
+    - O
+    - N
+    - F
+    - R
+    - V
+    - S
+    - S
+  - Size: 10
+    Row:
+    - X
+    - F
+    - I
+    - J
+    - I
+    - P
+    - A
+    - E
+    - A
+    - J
+  - Size: 10
+    Row:
+    - B
+    - R
+    - E
+    - A
+    - D
+    - Z
+    - W
+    - L
+    - L
+    - S
+  - Size: 10
+    Row:
+    - N
+    - D
+    - O
+    - D
+    - S
+    - N
+    - A
+    - I
+    - B
+    - T
+  - Size: 10
+    Row:
+    - L
+    - T
+    - D
+    - S
+    - Z
+    - D
+    - X
+    - E
+    - W
+    - E
+  - Size: 10
+    Row:
+    - X
+    - E
+    - Y
+    - Y
+    - U
+    - G
+    - S
+    - J
+    - T
+    - A
+  - Size: 10
+    Row:
+    - S
+    - H
+    - R
+    - I
+    - M
+    - P
+    - P
+    - G
+    - X
+    - K
+  - Size: 10
+    Row:
+    - E
+    - G
+    - R
+    - P
+    - H
+    - J
+    - K
+    - T
+    - O
+    - L
+  - Size: 10
+    Row:
+    - P
+    - L
+    - U
+    - M
+    - C
+    - W
+    - I
+    - U
+    - D
+    - Z
+  - Size: 10
+    Row:
+    - V
+    - H
+    - O
+    - O
+    - B
+    - A
+    - C
+    - I
+    - F
+    - F
+  SearchWords:
+  - Found: 0
+    Word: LEMON
+  - Found: 0
+    Word: PLUM
+  - Found: 0
+    Word: SALAD
+  - Found: 0
+    Word: SHRIMP
+  - Found: 0
+    Word: STEAK
+  - Found: 0
+    Word: BREAD

@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1cea1ef66088f468489c9723d3d225, type: 3}
+  m_Name: Hobbies2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 100
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - K
+    - N
+    - I
+    - T
+    - T
+    - I
+    - N
+    - G
+    - P
+    - M
+  - Size: 10
+    Row:
+    - C
+    - E
+    - Q
+    - Y
+    - N
+    - C
+    - X
+    - V
+    - X
+    - V
+  - Size: 10
+    Row:
+    - R
+    - G
+    - N
+    - I
+    - T
+    - P
+    - L
+    - U
+    - C
+    - S
+  - Size: 10
+    Row:
+    - Y
+    - E
+    - K
+    - C
+    - H
+    - G
+    - J
+    - O
+    - U
+    - I
+  - Size: 10
+    Row:
+    - C
+    - P
+    - T
+    - Y
+    - R
+    - E
+    - T
+    - T
+    - O
+    - P
+  - Size: 10
+    Row:
+    - S
+    - I
+    - N
+    - G
+    - I
+    - N
+    - G
+    - Z
+    - F
+    - O
+  - Size: 10
+    Row:
+    - M
+    - E
+    - D
+    - I
+    - T
+    - A
+    - T
+    - I
+    - O
+    - N
+  - Size: 10
+    Row:
+    - V
+    - D
+    - N
+    - C
+    - P
+    - J
+    - F
+    - Y
+    - Q
+    - F
+  - Size: 10
+    Row:
+    - T
+    - R
+    - A
+    - V
+    - E
+    - L
+    - I
+    - N
+    - G
+    - T
+  - Size: 10
+    Row:
+    - G
+    - L
+    - Y
+    - Y
+    - N
+    - M
+    - O
+    - Y
+    - G
+    - M
+  SearchWords:
+  - Found: 0
+    Word: KNITTING
+  - Found: 0
+    Word: TRAVELING
+  - Found: 0
+    Word: SCULPTING
+  - Found: 0
+    Word: SINGING
+  - Found: 0
+    Word: MEDITATION
+  - Found: 0
+    Word: POTTERY
